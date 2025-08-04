@@ -17,12 +17,12 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** C/C++, Python, Embedded C, HTML/CSS, JavaScript  
+- **Languages:** Python, Embedded C, HTML/CSS, JavaScript  
 - **Microcontrollers:** Arduino, ESP32, ESP8266, STM32  
 - **Robotics:** PID Control, Line Followers, Robo Soccer, Balancing Bots  
-- **IoT Tools:** Blynk, Firebase, MQTT, HTTP APIs  
-- **Tools & Platforms:** VS Code, PlatformIO, Git, KiCad, Fritzing, Proteus  
-- **Cloud:** AWS IoT, Google Firebase
+- **IoT Tools:** Blynk, MQTT, HTTP APIs  
+- **Tools & Platforms:** VS Code, Git
+
 
 ---
 
