@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyanshu Adlak
 
-<!--
-**piyu1177/piyu1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Electronics Engineer | 🤖 Robotics Enthusiast | 💻 Embedded Systems & Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently pursuing Electronics & Communication Engineering  
+- 🤖 Passionate about building robots, IoT systems, and embedded tech  
+- 👨‍💻 Experienced with Arduino, ESP32/8266, Python, and C/C++  
+- 🧠 Exploring AI & ML integration with embedded systems  
+- 💡 Building smart automation, line followers, robo soccer bots & more  
+- 🎯 Always open to collaboration and new opportunities
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** C/C++, Python, Embedded C, HTML/CSS, JavaScript  
+- **Microcontrollers:** Arduino, ESP32, ESP8266, STM32  
+- **Robotics:** PID Control, Line Followers, Robo Soccer, Balancing Bots  
+- **IoT Tools:** Blynk, Firebase, MQTT, HTTP APIs  
+- **Tools & Platforms:** VS Code, PlatformIO, Git, KiCad, Fritzing, Proteus  
+- **Cloud:** AWS IoT, Google Firebase
+
+---
+
+## 📈 GitHub Stats
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu001&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu001&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Email: adlakpriyanshu5@gamil.com  
+- 💼 [LinkedIn](www.linkedin.com/in/priyanshu-adlak-a4a66025a)  
+- 🌐 [Portfolio/Website](https://your-website.com) *(optional)*
+
+---
+
+
+
